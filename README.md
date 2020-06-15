@@ -7,6 +7,7 @@ Projeto desenvolvido para final de curso, sendo como uma etapa inicial desenvolv
 
 ## Iniciando
 As instruções a seguir te auxiliarão a copiar o projeto e executá-lo em seu ambiente localmente. Para isto será necessário que você possua o GIT instalado em sua máquina de destino.
+Acesse este projeto em: [E-cachaca site](https://wxbarbosa.github.io/ecachacaweb/)
 
 ### Pré-requisitos
 Para executar este projeto você necessitará de uma navegador (browser) compatível. (Google Chrome, IE, Firefox, Brave, Opera)
