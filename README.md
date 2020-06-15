@@ -28,6 +28,6 @@ Pronto, você pode navegar a vontade.
 
 ### Authors
 * Wylkson Barbosa - Developer Full Stack
-Veja em nossa lista [contributors](https://github.com/your/project/contributors) quem são os participantes que contribuíram com este projeto.
+Veja em nossa lista [contributors](https://github.com/WxBarbosa/ecachacaweb/contributors) quem são os participantes que contribuíram com este projeto.
 
 ### Thank you!! Obrigado!! Arigato!!
