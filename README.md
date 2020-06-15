@@ -1,9 +1,9 @@
 # E-Cachaça
 Projeto desenvolvido para final de curso, sendo como uma etapa inicial desenvolver um site institucional para uma empresa fictícia do zero, utilizando conhecimentos obtidos durante curso.
 
-![Home](https://github.com/WxBarbosa/ecachacaweb/blob/gh-pages/material/index.png?raw=true)
+![Home](https://raw.githubusercontent.com/WxBarbosa/ecachacaweb/gh-pages/material/index.PNG)
 
-![Depoimentos](https://github.com/WxBarbosa/ecachacaweb/blob/gh-pages/material/testimonials.png?raw=true)
+![Depoimentos](https://raw.githubusercontent.com/WxBarbosa/ecachacaweb/gh-pages/material/testimonials.PNG)
 
 ## Iniciando
 As instruções a seguir te auxiliarão a copiar o projeto e executá-lo em seu ambiente localmente. Para isto será necessário que você possua o GIT instalado em sua máquina de destino.
